@@ -9,3 +9,4 @@ Se hizo un LOGIN  usando docker como prueba con su pagina de registro de usuario
 Se usa node: 18 del dockerfile para configurarlo para que cada que se inicie el contenedor se levante el servidor cuando se inicie el docker. 
 ![image](https://github.com/user-attachments/assets/fdbd708a-65ff-4ff0-880d-e8bde28bece5)
 
+Lo siguiente seria incluir otro docker para que sirva como base de datos y asi no afecte todo la aplicacion
