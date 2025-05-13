@@ -1,4 +1,4 @@
-Se hizo un LOGIN  usando docker como prueba con su pagina de registro de usuario
+Se hizo un LOGIN  usando docker como prueba con su pagina de registro de usuario, Creando como plantilla o imagen, poder subirla y exportarla a cualquier dispositivo de computo que tenga soporte
 
 ![image](https://github.com/user-attachments/assets/ef7459c0-f779-46db-9b22-43311b190dc9)
 
